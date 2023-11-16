@@ -48,4 +48,4 @@
 
 直接转向法写出的DFA仍然存在一定的bug需要修改和维护，在错误信息的处理方面并没有做的很好，我很感激您向我提出修改意见或提供bug，我将不胜感激。
 
-通讯方式: jiangdetutec@gmail.com# PL0Lexer
+通讯方式: jiangdetutec@gmail.com
