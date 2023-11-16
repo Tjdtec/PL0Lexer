@@ -1,0 +1,5 @@
+procedure divide;
+var w;
+begin
+	r := x; q := 0; w := y;
+end
