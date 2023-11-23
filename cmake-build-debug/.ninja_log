@@ -1,0 +1,26 @@
+# ninja log v5
+15	136	7218298411341890	CMakeFiles/WindowsLexer.dir/tool_function.c.obj	8b669743a30a278a
+8	153	7218298411521731	CMakeFiles/WindowsLexer.dir/lexer_function.c.obj	462faa2156321e33
+2	130	7218298411282033	CMakeFiles/WindowsLexer.dir/main.c.obj	cb8dea341a330865
+1	101	7218491367497266	CMakeFiles/WindowsLexer.dir/DFA_DIR/lexer_function.c.obj	34484064c546c5e4
+82	197	7218493762124688	WindowsLexer.exe	70ba1942485d6661
+0	257	7224086924138893	build.ninja	c16fee8ae55bbfc3
+11	129	7218407618486269	CMakeFiles/WindowsLexer.dir/DFA_DIR/tool_function.c.obj	4a90e79956d735d6
+1	82	7218493761017636	CMakeFiles/WindowsLexer.dir/DFA_DIR/main.c.obj	ae96adc3de2f1ce9
+4	203	7224105570784593	CMakeFiles/WindowsLexer.dir/DFA_DIR/main.c.obj	ae96adc3de2f1ce9
+11	204	7224105570794923	CMakeFiles/WindowsLexer.dir/DFA_DIR/lexer_function.c.obj	34484064c546c5e4
+204	596	7224105574626004	WindowsLexer.exe	70ba1942485d6661
+3	137	7224106176304116	CMakeFiles/WindowsLexer.dir/DFA_DIR/main.c.obj	ae96adc3de2f1ce9
+17	145	7224106176403864	CMakeFiles/WindowsLexer.dir/DFA_DIR/tool_function.c.obj	4a90e79956d735d6
+10	150	7224106176453715	CMakeFiles/WindowsLexer.dir/DFA_DIR/lexer_function.c.obj	34484064c546c5e4
+150	304	7224106177950043	WindowsLexer.exe	70ba1942485d6661
+3	146	7224108206723218	CMakeFiles/WindowsLexer.dir/DFA_DIR/lexer_function.c.obj	34484064c546c5e4
+146	431	7224108209542786	WindowsLexer.exe	70ba1942485d6661
+3	159	7224111557334604	CMakeFiles/WindowsLexer.dir/DFA_DIR/lexer_function.c.obj	34484064c546c5e4
+160	324	7224111558960633	WindowsLexer.exe	70ba1942485d6661
+3	105	7224113514390064	CMakeFiles/WindowsLexer.dir/DFA_DIR/main.c.obj	ae96adc3de2f1ce9
+105	255	7224113515836196	WindowsLexer.exe	70ba1942485d6661
+2	111	7224114779099450	CMakeFiles/WindowsLexer.dir/DFA_DIR/main.c.obj	ae96adc3de2f1ce9
+112	286	7224114780814752	WindowsLexer.exe	70ba1942485d6661
+3	105	7224115116118062	CMakeFiles/WindowsLexer.dir/DFA_DIR/main.c.obj	ae96adc3de2f1ce9
+105	263	7224115117661664	WindowsLexer.exe	70ba1942485d6661
